@@ -1,4 +1,4 @@
-# Hello! I'm Vrishak!
+# Howdy! I'm Vrishak!
 
 Currently:
 - cs and math @ UVA
@@ -27,3 +27,4 @@ Currently:
 - Working on theCourseForum, the UVA course-review site I used to pick my own classes.
 - Finding pasta and omelette recipes
 - Finding new card games
+- Reading _The Art of War_ by Sun Tzu
